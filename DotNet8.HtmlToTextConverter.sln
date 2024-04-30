@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8.HtmlToTextConverter", "DotNet8.HtmlToTextConverter\DotNet8.HtmlToTextConverter.csproj", "{B587DB2F-3D51-4F30-8515-19865A698F02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B587DB2F-3D51-4F30-8515-19865A698F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B587DB2F-3D51-4F30-8515-19865A698F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B587DB2F-3D51-4F30-8515-19865A698F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B587DB2F-3D51-4F30-8515-19865A698F02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8187286A-FA7E-48C8-84B3-AB3D8C1AC6BC}
+	EndGlobalSection
+EndGlobal
